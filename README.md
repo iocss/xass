@@ -9,4 +9,4 @@ Features
   * OOP-like component definition
   * OOP-like property handling
   * Fluent API
-  * Conflict proof naming
+  * Conflict proof mixins & functions
