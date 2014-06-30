@@ -10,7 +10,7 @@ coming soon...
 Features
 ========
 
-  * OOP-like component definition
+  * OOP-like component definition (extending, polymorphism)
   * OOP-like property handling
   * Fluent API
   * Dependency Injection
