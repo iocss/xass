@@ -1,7 +1,8 @@
-Xass
-====
+Xass: simple but powerful & flexible
+====================================
 
-Sass: OOP-like component definition library including features of fluent API, Dependency Injection etc.
+OOP-like Sass component definition library including features of fluent API, Dependency Injection etc.
+
 
 Features
 ========
