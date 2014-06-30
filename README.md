@@ -3,7 +3,6 @@ Xass: simple but powerful & flexible
 
 OOP-like Sass/CSS component definition library including features of fluent API, Dependency Injection etc.
 
-
 Features
 ========
 
@@ -12,3 +11,8 @@ Features
   * Fluent API
   * Dependency Injection
   * Conflict proof mixins & functions
+
+Requirement
+===========
+
+  * Sass 3.3.0+
