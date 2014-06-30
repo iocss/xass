@@ -5,7 +5,7 @@ OOP-like Sass/CSS component definition library including features of fluent API,
 
 Xass changes your Sass life, I believe.
 
-comming soon...
+coming soon...
 
 Features
 ========
