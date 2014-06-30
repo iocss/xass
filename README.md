@@ -9,4 +9,5 @@ Features
   * OOP-like component definition
   * OOP-like property handling
   * Fluent API
+  * Dependency Injection
   * Conflict proof mixins & functions
