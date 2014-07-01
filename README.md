@@ -29,6 +29,7 @@ Ideas
  * Configuration (storage)
  * Container
    * Injection
+ * Provider
  * Type (Constraint), Validator
  * Ruleset (placeholder definition)
    * Accessor/Mutator
