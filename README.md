@@ -15,6 +15,7 @@ Features
   * Fluent API
   * Dependency Injection
   * Conflict proof mixins & functions
+  * Accessor/Mutator/Listener (as idea)
 
 Requirement
 ===========
