@@ -21,3 +21,5 @@ Requirement
 ===========
 
   * Sass 3.3.0+
+
+100% pure Sass library.
