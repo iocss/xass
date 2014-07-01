@@ -3,9 +3,7 @@ Xass: simple but powerful & flexible
 
 OOP-like Sass/CSS component definition library including features of fluent API, Dependency Injection etc.
 
-Xass changes your Sass life, I believe.
-
-coming soon...
+coming soon..., maybe...
 
 Features
 ========
@@ -20,6 +18,18 @@ Features
 Requirement
 ===========
 
-  * Sass 3.3.0+
+  * Sass 3.3.0+ (considering support of SassC)
 
 100% pure Sass library.
+
+Ideas
+=====
+
+ * Core
+ * Configuration (storage)
+ * Container
+   * Injection
+ * Type (Constraint), Validator
+ * Ruleset (placeholder definition)
+   * Accessor/Mutator
+   * Injection
