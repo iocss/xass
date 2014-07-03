@@ -27,6 +27,7 @@ Ideas
 
  * Core
  * Configuration (storage)
+ * Object
  * Container
    * Injection
  * Provider
