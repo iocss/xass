@@ -1,7 +1,7 @@
 Xass: simple but powerful & flexible
 ====================================
 
-OOP-like Sass/CSS component definition library including features of fluent API, Dependency Injection etc.
+OOP-like CSS component definition library including features of fluent API, Dependency Injection etc.
 
 coming soon..., maybe...
 
@@ -19,8 +19,7 @@ Requirement
 ===========
 
   * Sass 3.3.0+ (considering support of SassC)
-
-100% pure Sass library.
+  * or considering of use of AbsurdJS (better than Sass, I feel)
 
 Ideas
 =====
