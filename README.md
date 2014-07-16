@@ -18,7 +18,7 @@ Features
 Requirement
 ===========
 
-  * Sass 3.3.0+ (considering support of SassC)
+  * Sass 3.4.0+ (considering support of SassC)
   * or considering of use of AbsurdJS (better than Sass, I feel)
 
 Ideas
