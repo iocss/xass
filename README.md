@@ -19,6 +19,7 @@ Requirement
 ===========
 
   * Sass 3.4.0+ (considering support of SassC)
+    The feature that allows us to handle parent selector in 3.3.0 rc will come back as new Selector Functions in 3.4.0.
   * or considering of use of AbsurdJS (better than Sass, I feel)
 
 Ideas
