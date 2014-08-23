@@ -1,6 +1,8 @@
 Xass: simple but powerful & flexible
 ====================================
 
+**Naming Convention for Sass library:** https://gist.github.com/whizark/803834304d0ff34e99af
+
 OOP-like CSS component definition library including features of fluent API, Dependency Injection etc.
 
 I consider whether I should still use Sass as a preprocessor.
