@@ -1,12 +1,19 @@
 Xass: simple but powerful & flexible
 ====================================
 
-**Naming Convention for Sass library:** https://gist.github.com/whizark/803834304d0ff34e99af
-
 OOP-like CSS component definition library including features of fluent API, Dependency Injection etc.
 
 I consider whether I should still use Sass as a preprocessor.
 The feature that allows us to handle parent selector in 3.3.0 rc will come back as new Selector Functions in 3.4.0.
+
+Ideas
+=====
+* [**Naming Convention for Sass library**](https://gist.github.com/whizark/803834304d0ff34e99af)
+* [**Map getter & overridding**](https://gist.github.com/whizark/9001629e7e2ab45e79a4)
+* [**A flexible component definition**](https://gist.github.com/whizark/5e28e164afdfa6bb3117)
+* [**Polymorphic placeholder & mixins**](https://gist.github.com/whizark/97c8713818870f7a7c47)
+* [**Generating decoupled color schemes**](https://gist.github.com/whizark/f0eca27359406936e9af)
+* [**Typed value factory & validator using Map**](https://gist.github.com/whizark/b42f5d52c3caa2ad5f43)
 
 Features
 ========
