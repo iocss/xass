@@ -15,6 +15,7 @@ Ideas
 * [**Generating decoupled color schemes**](https://gist.github.com/whizark/f0eca27359406936e9af)
 * [**Typed value factory & validator using Map**](https://gist.github.com/whizark/b42f5d52c3caa2ad5f43)
 * [**Passing/Getting property value(s) into/inside mixins/functions**](https://gist.github.com/whizark/5dd0db8d8c0d46391a59)
+* [**Dependency Injection into Mixins**](https://gist.github.com/whizark/e2281eadfa6b3a22caf0)
 
 Features
 ========
