@@ -14,6 +14,7 @@ Ideas
 * [**Polymorphic placeholder & mixins**](https://gist.github.com/whizark/97c8713818870f7a7c47)
 * [**Generating decoupled color schemes**](https://gist.github.com/whizark/f0eca27359406936e9af)
 * [**Typed value factory & validator using Map**](https://gist.github.com/whizark/b42f5d52c3caa2ad5f43)
+* [**Passing/Getting propety value(s) to/in mixins/functions**](https://gist.github.com/whizark/5dd0db8d8c0d46391a59)
 
 Features
 ========
