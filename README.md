@@ -16,7 +16,7 @@ Ideas
 * [**Typed value factory & validator using Map**](https://gist.github.com/whizark/b42f5d52c3caa2ad5f43)
 * [**Passing/Getting property value(s) into/inside mixins/functions**](https://gist.github.com/whizark/5dd0db8d8c0d46391a59)
 * [**Dependency Injection into Mixins**](https://gist.github.com/whizark/e2281eadfa6b3a22caf0)
-* [**Resolving component dependencies**](https://gist.github.com/whizark/51ccdfbf57dbcb73953f)
+* [**Resolving component dependencies**](https://gist.github.com/whizark/51ccdfbf57dbcb73953f) ([Improved](https://gist.github.com/whizark/98328c6c26a298b68e4a))
 
 Features
 ========
