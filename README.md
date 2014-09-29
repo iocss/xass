@@ -8,6 +8,7 @@ The feature that allows us to handle parent selector in 3.3.0 rc will come back 
 
 Ideas
 =====
+* [**HTML/CSS Class Naming Convention for Scalable/Modular CSS.**](https://gist.github.com/whizark/92ed70d90d262a44db84)
 * [**Naming Convention for Sass library**](https://gist.github.com/whizark/803834304d0ff34e99af)
 * [**Map getter & overridding**](https://gist.github.com/whizark/9001629e7e2ab45e79a4)
 * [**A flexible component definition**](https://gist.github.com/whizark/5e28e164afdfa6bb3117)
