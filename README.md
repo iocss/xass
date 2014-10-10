@@ -18,6 +18,7 @@ Ideas
 * [**Passing/Getting property value(s) into/inside mixins/functions**](https://gist.github.com/whizark/5dd0db8d8c0d46391a59)
 * [**Dependency Injection into Mixins**](https://gist.github.com/whizark/e2281eadfa6b3a22caf0)
 * [**Resolving component dependencies**](https://gist.github.com/whizark/51ccdfbf57dbcb73953f) ([Improved](https://gist.github.com/whizark/98328c6c26a298b68e4a))
+* [**Creating new Scope & Instance Variable/Method**](https://gist.github.com/whizark/344cd819e8a45f2acb4a)
 
 Features
 ========
