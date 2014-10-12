@@ -19,6 +19,7 @@ Ideas
 * [**Dependency Injection into Mixins**](https://gist.github.com/whizark/e2281eadfa6b3a22caf0)
 * [**Resolving component dependencies**](https://gist.github.com/whizark/51ccdfbf57dbcb73953f) ([Improved](https://gist.github.com/whizark/98328c6c26a298b68e4a))
 * [**Creating new Scope & Instance Variable/Method**](https://gist.github.com/whizark/344cd819e8a45f2acb4a)
+* [**Placeholder Factory(Mixin) based on the argumetns**](https://gist.github.com/whizark/1a7e587e447eb38e8a3b)
 
 Features
 ========
