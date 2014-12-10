@@ -20,6 +20,7 @@ Ideas
 * [**Resolving component dependencies**](https://gist.github.com/whizark/51ccdfbf57dbcb73953f) ([Improved](https://gist.github.com/whizark/98328c6c26a298b68e4a))
 * [**Creating new Scope & Instance Variable/Method**](https://gist.github.com/whizark/344cd819e8a45f2acb4a) ([Another Example](https://gist.github.com/whizark/7c9d9c26314bf9a9f006))
 * [**Placeholder Factory(Mixin) based on the argumetns**](https://gist.github.com/whizark/1a7e587e447eb38e8a3b)
+* [**Automatically reducing duplicated declarations**](https://gist.github.com/whizark/720ffec139368fa61932)
 * [**Back-slash as the namespace separator in HTML/CSS**](https://gist.github.com/whizark/ea2ba0ff3f47956fda0f)
 * [**The Way to Define Robust CSS Module/Component**](https://gist.github.com/whizark/6355c4060cb1a35165d7)
 
