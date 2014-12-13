@@ -23,6 +23,7 @@ Ideas
 * [**Automatically reducing duplicated declarations**](https://gist.github.com/whizark/720ffec139368fa61932)
 * [**Back-slash as the namespace separator in HTML/CSS**](https://gist.github.com/whizark/ea2ba0ff3f47956fda0f)
 * [**The Way to Define Robust CSS Module/Component**](https://gist.github.com/whizark/6355c4060cb1a35165d7)
+* [**Element-type-based Conditional Styles Inside Mixin**](https://gist.github.com/whizark/db2327790b7ce4f1f575)
 
 Features
 ========
