@@ -14,7 +14,7 @@ Ideas
 * [**A flexible component definition**](https://gist.github.com/whizark/5e28e164afdfa6bb3117)
 * [**Polymorphic placeholder & mixins**](https://gist.github.com/whizark/97c8713818870f7a7c47)
 * [**Generating decoupled color schemes**](https://gist.github.com/whizark/f0eca27359406936e9af)
-* [**Typed value factory & validator using Map**](https://gist.github.com/whizark/b42f5d52c3caa2ad5f43) ([with descriptor](https://gist.github.com/whizark/b42f5d52c3caa2ad5f43))
+* [**Typed value factory & validator using Map**](https://gist.github.com/whizark/b42f5d52c3caa2ad5f43) ([with descriptor](https://gist.github.com/whizark/40a9cf55b62edb01e572))
 * [**Passing/Getting property value(s) into/inside mixins/functions**](https://gist.github.com/whizark/5dd0db8d8c0d46391a59)
 * [**Dependency Injection into Mixins**](https://gist.github.com/whizark/e2281eadfa6b3a22caf0)
 * [**Resolving component dependencies**](https://gist.github.com/whizark/51ccdfbf57dbcb73953f) ([Improved](https://gist.github.com/whizark/98328c6c26a298b68e4a))
