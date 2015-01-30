@@ -25,6 +25,7 @@ Ideas
 * [**The Way to Define Robust CSS Module/Component**](https://gist.github.com/whizark/6355c4060cb1a35165d7)
 * [**Element-type-based Conditional Styles Inside Mixin**](https://gist.github.com/whizark/db2327790b7ce4f1f575)
 * [**placeholder-exists()**](https://gist.github.com/whizark/86751f1fbcd132ec8c52)
+* [**Pseudo `undefined` value**](https://gist.github.com/whizark/510101032813eee49bdf)
 * [**OOSASS: Writting OOP-like Sass/CSS Component**](https://gist.github.com/whizark/97f7855c8cf3a6d714e5)
 * [**CSS/Sass: Robust/Scalable Layered CSS Architecture**](https://gist.github.com/whizark/8e1941924605cc062020)([Element Property](https://gist.github.com/whizark/536023c5677a0a7aac45), [Aggregation vs Composition](https://gist.github.com/whizark/ff753faa30e362b0eec5))
 
